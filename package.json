@@ -5,6 +5,7 @@
     "dev": "webpack-dev-server"
   },
   "dependencies": {
+    "lazysizes": "^5.2.0",
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1"
   },
